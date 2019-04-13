@@ -10,7 +10,9 @@
         "tecnickcom/tcpdf": "~6",
         "mikehaertl/phpwkhtmltopdf": "~2.1",
         "dompdf/dompdf": "0.8.0",
-        "drupal/diff": "^1.0@RC"
+        "drupal/diff": "^1.0@RC",
+        "vardot/varbase-updater": "^1.1",
+        "drush/drush": "^9.6"
     },
     "replace": {
         "drupal/core": "^8.6"
