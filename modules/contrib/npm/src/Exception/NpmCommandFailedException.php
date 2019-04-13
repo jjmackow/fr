@@ -2,10 +2,9 @@
 
 namespace Drupal\npm\Exception;
 
-use Exception;
 use Symfony\Component\Process\Process;
 
-class NpmCommandFailedException extends Exception {
+class NpmCommandFailedException extends NpmException {
 
   /**
    * @var \Symfony\Component\Process\Process

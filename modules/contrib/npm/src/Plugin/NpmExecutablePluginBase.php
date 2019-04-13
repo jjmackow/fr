@@ -48,7 +48,7 @@ abstract class NpmExecutablePluginBase extends PluginBase implements NpmExecutab
    * @return string
    */
   protected function getWorkingDirectory() {
-    $dir = DRUPAL_ROOT . './..';
+    $dir = DRUPAL_ROOT . '/..';
     // TODO: Document this in api.php.
     $this->moduleHandler->alter('npm_working_dir', $dir);
     return $dir;

@@ -4,8 +4,8 @@ description: Provides npm actions, e.g. require a package, run script, etc.
 package: Javascript
 # core: 8.x
 
-# Information added by Drupal.org packaging script on 2019-02-22
-version: '8.x-1.0-alpha9'
+# Information added by Drupal.org packaging script on 2019-04-10
+version: '8.x-1.0-alpha10'
 core: '8.x'
 project: 'npm'
-datestamp: 1550829186
+datestamp: 1554914894
