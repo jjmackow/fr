@@ -1,0 +1,16 @@
+name: Colorbox Load
+type: module
+description: 'Allow you to load any content in a colorbox.'
+package: Media
+# core: 8.x
+configure: ng_lightbox.settings
+
+dependencies:
+  - drupal:colorbox
+  - drupal:ng_lightbox
+
+# Information added by Drupal.org packaging script on 2018-09-11
+version: '8.x-1.0-rc2+7-dev'
+core: '8.x'
+project: 'colorbox_load'
+datestamp: 1536680004

@@ -10,8 +10,8 @@ dependencies:
   - media_entity_instagram:media_entity_instagram
   - varbase_media:entity_browser_generic_embed
 
-# Information added by Drupal.org packaging script on 2019-04-10
-version: '8.x-6.5'
+# Information added by Drupal.org packaging script on 2019-04-17
+version: '8.x-6.7'
 core: '8.x'
 project: 'varbase_media'
-datestamp: 1554893590
+datestamp: 1555522088

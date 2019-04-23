@@ -7,8 +7,8 @@ configure: entity.feeds_feed_type.collection
 dependencies:
   - drupal:system (>=8.3.0)
 
-# Information added by Drupal.org packaging script on 2019-01-09
-version: '8.x-3.0-alpha4+1-dev'
+# Information added by Drupal.org packaging script on 2018-12-31
+version: '8.x-3.0-alpha4'
 core: '8.x'
 project: 'feeds'
-datestamp: 1547031787
+datestamp: 1546263489
